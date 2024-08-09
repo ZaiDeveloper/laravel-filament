@@ -1,6 +1,6 @@
-Laravel Filament
+## Laravel Filament
 
-This projecty for my learning purpose to gain experience with the filament.
+This project is for my learning purpose to gain experience with filament.
 
 Features:
 -   Laravel 11
@@ -13,7 +13,7 @@ Features:
 -   Filament Notification
 -   Filament Infolist
 
-https://filamentphp.com/
+Filament Website: https://filamentphp.com/
 
 ## Installation
 
